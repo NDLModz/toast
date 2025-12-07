@@ -1,5 +1,1 @@
-{
-  "telegram_enabled": true,
-  "version": "1.0",
-  "message": "Config for NDLModz"
-}
+{ "open_telegram": true }
